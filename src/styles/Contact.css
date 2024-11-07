@@ -1,0 +1,28 @@
+/* src/styles/Contact.css */
+.contact {
+    padding: 3rem 2rem;
+    background: #f4f4f4;
+    text-align: center;
+  }
+  
+  .contact h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 1.5rem;
+  }
+  
+  .contact-details p {
+    font-size: 1.1rem;
+    color: #555;
+    margin: 0.5rem 0;
+  }
+  
+  .contact-details a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .contact-details a:hover {
+    text-decoration: underline;
+  }
+  

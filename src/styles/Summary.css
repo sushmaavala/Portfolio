@@ -1,0 +1,21 @@
+/* src/styles/Summary.css */
+.summary {
+    padding: 3rem 2rem;
+    background: #e0f7fa;
+    text-align: center;
+  }
+  
+  .summary h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 1.5rem;
+  }
+  
+  .summary p {
+    font-size: 1.1rem;
+    color: #555;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  

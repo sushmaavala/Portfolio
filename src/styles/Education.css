@@ -1,0 +1,22 @@
+/* src/styles/Education.css */
+.education {
+    padding: 3rem 2rem;
+    background: #f9f9f9;
+    text-align: center;
+  }
+  
+  .education h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 2rem;
+  }
+  
+  .education-item {
+    margin-bottom: 2rem;
+  }
+  
+  .institution-duration {
+    font-style: italic;
+    color: #666;
+  }
+  

@@ -1,0 +1,32 @@
+/* src/styles/Projects.css */
+.projects {
+    padding: 3rem 2rem;
+    background: #f9f9f9;
+    text-align: center;
+  }
+  
+  .project-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  
+  .project-item {
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+    text-align: left;
+  }
+  
+  .project-item h3 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 0.5rem;
+  }
+  
+  .project-item p {
+    font-size: 1rem;
+    color: #555;
+  }
+  
